@@ -1,5 +1,6 @@
 #Water Simulator
-
+![image](1.PNG)
+![image](2.PNG)
 #####Name: Simon J. Bloch
 #####Class: Computer Graphics - Fall 2016 - Swarthmore College
 #####Development Timeline: 11/18/2016 - 12/16/2016
